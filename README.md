@@ -1,4 +1,5 @@
 Key Highlights
+
 Total Revenue by Gender:
   Sales are nearly equally split between genders.
   Male customers slightly lead with 51.98% of total sales.
@@ -35,6 +36,7 @@ Product Quantity by Category:
   Other high-quantity categories include Health and beauty and Home and lifestyle.
 
 *Insights & Recommendations
+
 1.Promote Lower-Selling Categories
 Consider promotions or bundles for underperforming lines like Health and Beauty.
 
